@@ -4,3 +4,5 @@
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/664e86652e9817ade71ccb1b971153e0171ecda4/git%20images/login.jpg)
 ### Serch Page
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/fad3692efed83c662fde9ca89fd90a8b29773c43/git%20images/search.jpg)
+### Available Rides
+![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/66c3c5025d9e5b9ecbc635c00cf1e11d4f7e700d/git%20images/avaliable.jpg)
