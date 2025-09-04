@@ -6,3 +6,5 @@
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/fad3692efed83c662fde9ca89fd90a8b29773c43/git%20images/search.jpg)
 ### Available Rides
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/66c3c5025d9e5b9ecbc635c00cf1e11d4f7e700d/git%20images/avaliable.jpg)
+### Booking Screen
+![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/bdfe2169c4189cd1d02bee0d9199e052e40f7931/git%20images/booking.jpg)
