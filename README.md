@@ -10,3 +10,12 @@
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/bdfe2169c4189cd1d02bee0d9199e052e40f7931/git%20images/booking.jpg)
 ### Booking Conformation Screen
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/b4a00b46a079c5d80b7d71dadbfe87daad4f38b3/git%20images/booking%20con.jpg)
+### Payment Screen
+![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/d8cb6dae85dda9f02538b7f4983774f1b589b95b/git%20images/payment.jpg)
+### Payment Sucessfully
+![image alt]
+
+![image alt]
+
+![image alt]
+
