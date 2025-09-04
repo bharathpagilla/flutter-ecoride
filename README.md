@@ -13,9 +13,9 @@
 ### Payment Screen
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/d8cb6dae85dda9f02538b7f4983774f1b589b95b/git%20images/payment.jpg)
 ### Payment Sucessfully
-![image alt]
-
-![image alt]
+![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/0c2c480c9d975f4478329b321897bac845ad6a63/git%20images/payment%20succ.jpg)
+### Route Screen
+![image alt]()
 
 ![image alt]
 
