@@ -20,6 +20,8 @@
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/6e64c2032bb3e0916ead9ce342bbbf0ffa1ffcc6/git%20images/inbox.jpg)
 ### Ride History
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/2fa30fb432780fbe484e941b1c4d6b1a5108b50f/git%20images/ride%20history.jpg)
+### Profile Screen
+![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/837ec54e768344d6153226e62904bd78dd97fdd3/git%20images/profile.png)
 ### Pubilsh Ride
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/22639353d4628752c9af9f204481e7e1e047161a/git%20images/publish.jpg)
 ### Accept Ride
