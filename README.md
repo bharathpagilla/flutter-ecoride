@@ -15,7 +15,13 @@
 ### Payment Sucessfully
 ![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/0c2c480c9d975f4478329b321897bac845ad6a63/git%20images/payment%20succ.jpg)
 ### Route Screen
+![image alt](https://github.com/bharathpagilla/flutter-ecoride/blob/886c12c2b05cb9d576ae82d5154997dce57610b1/git%20images/route.jpg)
+### Inbox
 ![image alt]()
-
-![image alt]
+### Profile
+![image alt]()
+### Pubilsh Ride
+![image alt]()
+### Accept Ride
+![image alt]()
 
